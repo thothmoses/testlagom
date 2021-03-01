@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://developer.lightbend.com/docs/lagom-to-akka-migration-guide/faqs/index.html</loc>
+<lastmod>2021-03-01T05:00:57.199Z</lastmod>
+</url>
+<url>
+<loc>https://developer.lightbend.com/docs/lagom-to-akka-migration-guide/getting-started/index.html</loc>
+<lastmod>2021-03-01T05:00:57.199Z</lastmod>
+</url>
+<url>
+<loc>https://developer.lightbend.com/docs/lagom-to-akka-migration-guide/index.html</loc>
+<lastmod>2021-03-01T05:00:57.199Z</lastmod>
+</url>
+<url>
+<loc>https://developer.lightbend.com/docs/lagom-to-akka-migration-guide/section-one/index.html</loc>
+<lastmod>2021-03-01T05:00:57.199Z</lastmod>
+</url>
+</urlset>

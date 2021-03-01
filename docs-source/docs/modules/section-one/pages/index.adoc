@@ -1,0 +1,4 @@
+= Section One
+
+include::ROOT:partial$include.adoc[]
+

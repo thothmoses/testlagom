@@ -1,0 +1,7 @@
+= Getting Started
+
+include::ROOT:partial$include.adoc[]
+
+== Prerequisites
+
+You will need the following before proceding with your migration

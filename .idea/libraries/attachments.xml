@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="attachments">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/docs-source/docs/modules/how-to/assets/attachments/shopping-cart-cassandra-scala.zip!/" />
+      <root url="jar://$PROJECT_DIR$/docs-source/docs/modules/how-to/assets/attachments/shopping-cart-cassandra-java.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
