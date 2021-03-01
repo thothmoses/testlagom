@@ -1,4 +1,4 @@
-Akka Platform Guide
+Lagom to Akka Migration Guide
 ===================
 
 Review and feedback
