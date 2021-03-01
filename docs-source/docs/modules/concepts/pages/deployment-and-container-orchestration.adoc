@@ -1,0 +1,26 @@
+= Deployment and Container Orchestration
+
+
+include::partial$include.adoc[]
+
+To deploy an application built using Akka Cluster you can use the xref:deployment:index.adoc[Akka Operator].
+
+The example from the xref:microservices-tutorial:index.adoc[Implementing Microservices with Akka tutorial] contains build files for creating a <<Docker>> container for your application.
+
+Each step of the tutorial has instructions of how to run in Kubernetes, for example the xref:microservices-tutorial:grpc-service.adoc#kubernetes[first step]
+
+Alternatively, you can deploy {akka-management}/kubernetes-deployment/index.html[Akka Cluster applications to Kubernetes without the Akka Operator {tab-icon}, window="tab"], but that requires more expertise of Kubernetes.
+
+[#docker]
+== Docker
+
+Docker is a popular containerization technology. If you are unfamiliar to containers, we recommend the 
+{docker-docs}/get-started/[Get Started with Docker {tab-icon}, window="tab"] documentation.
+
+[#kubernetes]
+== Kubernetes
+
+[quote, ,'https://en.wikipedia.org/wiki/Kubernetes[Wikipedia]']
+____
+Kubernetes (commonly stylized as K8s) is an open-source container-orchestration system for automating computer application deployment, scaling, and management.
+____
